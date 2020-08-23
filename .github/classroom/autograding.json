@@ -6,7 +6,7 @@
       "run": "python converter.py",
       "input": "450323",
       "output": "450.32",
-      "comparison": "exact",
+      "comparison": "included",
       "timeout": 10,
       "points": 50
     },
