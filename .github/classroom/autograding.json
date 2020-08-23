@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Test 1",
+      "setup": "",
+      "run": "python converter.py",
+      "input": "450323",
+      "output": "450.32",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 50
+    },
+    {
+      "name": "Test 2",
+      "setup": "",
+      "run": "python converter.py",
+      "input": "12",
+      "output": "0.01",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 50
+    }
+  ]
+}
