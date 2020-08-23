@@ -1,3 +1,3 @@
 num = int(input(""))
-num = num/1000
+num = num/100
 print(num)
